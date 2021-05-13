@@ -1,4 +1,9 @@
-# Create a timer app:
+# A simple timer app using Vanilla JavaScript
+
+## Demo:
+https://mannhuynh.github.io/timer/
+
+## Create a timer app:
 - Event listener to watch for a click on "start" button
 - Draw a full border around the timer
 - Start counting down the timer
